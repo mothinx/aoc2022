@@ -18,8 +18,11 @@
     "aocrunner": "^1.6.1",
     "prettier": "^2.4.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@arrows/array": "^1.4.1"
+  },
   "engines": {
-    "node": ">=16.13.0"
+    "node": ">=16.13.0",
+    "@arrows/array": "^1.4.1"
   }
 }
